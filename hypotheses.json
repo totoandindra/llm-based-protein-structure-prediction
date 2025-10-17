@@ -1,0 +1,11 @@
+[
+  {
+    "id": "1",
+    "hypothesis": "Large language models trained on protein sequence data can predict three-dimensional protein structures with accuracy comparable to existing tools like AlphaFold2, while requiring significantly less computational resources."
+  },
+  {
+    "id": "example-1",
+    "hypothesis": "This is an example hypothesis that demonstrates the expected format.",
+    "_isExample": true
+  }
+]

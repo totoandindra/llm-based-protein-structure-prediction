@@ -1,0 +1,5 @@
+This research explores the application of large language models in predicting protein tertiary structures, leveraging the models' ability to understand complex sequential patterns and long-range dependencies in amino acid sequences. The project aims to determine whether LLMs can effectively learn the underlying principles of protein folding and generate accurate structural predictions.
+
+The study will utilize transformer-based architectures pre-trained on protein sequence databases, fine-tuned specifically for structure prediction tasks. The approach differs from traditional molecular dynamics simulations by treating protein folding as a sequence-to-structure translation problem, potentially offering faster prediction times and novel insights into folding mechanisms.
+
+The research will incorporate attention mechanism analysis to understand how LLMs capture crucial physicochemical interactions and evolutionary conservation patterns that determine protein structure. This could lead to new perspectives on the relationship between primary sequence and tertiary structure.
